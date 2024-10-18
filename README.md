@@ -18,16 +18,53 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged a PR in a private repo
-2. 🔀 Merged [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-10-07` in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔎 Reviewed [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔀 Merged [PR #33](https://github.com/Wiresense/frontend/pull/33) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔀 Merged [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-7. 🔎 Reviewed [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🔀 Merged [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447)
-10. 🔎 Reviewed [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 📝 Committed to a private repo
+2. 📝 Committed to [isoqt08/activity-log](https://github.com/isoqt08/activity-log/commit/d254c4ce8a2a957d556619c7773ff24cf23cc250)
+3. 📝 Committed to [isoqt08/activity-log](https://github.com/isoqt08/activity-log/commit/3d08a8ef283cdc324aab8f990de5ab1c318e06b3)
+4. 📝 Committed to [isoqt08/activity-log](https://github.com/isoqt08/activity-log/commit/55497b12482f2f0ff0039b84ffd455c3339297ed)
+5. 📝 Committed to [isoqt08/activity-log](https://github.com/isoqt08/activity-log/commit/7b0ae45d6d2316f42b0ace784984d773c5313cc8)
+6. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+7. 🆕 Opened an issue [#7](https://github.com/isoqt08/B11109026/issues/7) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+8. 📝 Committed to [isoqt08/B11109026](https://github.com/isoqt08/B11109026/commit/bbd5aa7b4c7f1a491fc1f798d8948a9c67d7479f)
+9. 🗑️ Deleted a branch `5-dev-hw4` in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+10. ❌ Closed an issue [#5](https://github.com/isoqt08/B11109026/issues/5) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+11. 📝 Committed to [isoqt08/B11109026](https://github.com/isoqt08/B11109026/commit/20f9e10d5cf8f52b00f109d7ee07e3b4dc3cfe55)
+12. 🔀 Merged [PR #6](https://github.com/isoqt08/B11109026/pull/6) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+13. 📥 Opened [PR #6](https://github.com/isoqt08/B11109026/pull/6) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+14. 📝 Committed to [isoqt08/B11109026](https://github.com/isoqt08/B11109026/commit/c6e38eef01208b0ad854182f676708f9da987a58)
+15. 📝 Committed to [isoqt08/B11109026](https://github.com/isoqt08/B11109026/commit/20f9e10d5cf8f52b00f109d7ee07e3b4dc3cfe55)
+16. ➕ Created a new branch [`5-dev-hw4`](https://github.com/isoqt08/B11109026/tree/5-dev-hw4) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+17. 🆕 Opened an issue [#5](https://github.com/isoqt08/B11109026/issues/5) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+18. 🆕 Opened an issue [#4](https://github.com/isoqt08/B11109026/issues/4) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+19. 📝 Committed to a private repo
+20. 📝 Committed to a private repo
+21. 🔀 Merged a PR in a private repo
+22. 📥 Opened a PR in a private repo
+23. 📝 Committed to a private repo
+24. 📝 Committed to a private repo
+25. 📝 Committed to a private repo
+26. ➕ Created a new branch `main` in a private repo
+27. 🎉 Created a new private repository
+28. 🆕 Opened an issue [#3](https://github.com/isoqt08/B11109026/issues/3) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+29. ❌ Closed an issue [#1](https://github.com/isoqt08/B11109026/issues/1) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+30. 📝 Committed to [isoqt08/B11109026](https://github.com/isoqt08/B11109026/commit/5b913772534075af359113f3018bedae1e34b3f7)
+31. 🔀 Merged [PR #2](https://github.com/isoqt08/B11109026/pull/2) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+32. 📥 Opened [PR #2](https://github.com/isoqt08/B11109026/pull/2) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+33. 📝 Committed to [isoqt08/B11109026](https://github.com/isoqt08/B11109026/commit/5b913772534075af359113f3018bedae1e34b3f7)
+34. ➕ Created a new branch [`1-labubu`](https://github.com/isoqt08/B11109026/tree/1-labubu) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+35. 🆕 Opened an issue [#1](https://github.com/isoqt08/B11109026/issues/1) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+36. 🆕 Opened an issue [#3](https://github.com/ntust-im-labyrinth/devops202409/issues/3) in [ntust-im-labyrinth/devops202409](https://github.com/ntust-im-labyrinth/devops202409)
+37. ➕ Created a new branch [`AirPods-4取貨`](https://github.com/isoqt08/B11109026/tree/AirPods-4取貨) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+38. 🗑️ Deleted a branch `AirPods-取貨` in a private repo
+39. ➕ Created a new branch `AirPods-取貨` in a private repo
+40. ➕ Created a new branch `main` in a private repo
+41. 🎉 Created a new private repository
+42. ➕ Created a new branch [`main`](https://github.com/isoqt08/B11109026/tree/main) in [isoqt08/B11109026](https://github.com/isoqt08/B11109026)
+43. ➕ Created a new branch `main` in a private repo
+44. 🎉 Created a new private repository
+45. ➕ Created a new branch `test` in a private repo
+46. ➕ Created a new branch `main` in a private repo
+47. 🎉 Created a new private repository
 <!--END_SECTION:activity-->
 
 ## 📖Usage
